@@ -1,2 +1,2 @@
 # Daily-Engineer
-A collection of knowledge related to reverse engineering
+A reverse engineering knowledge collection 
